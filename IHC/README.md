@@ -18,5 +18,8 @@ Escrevi um artigo onde falo sobre como as inteligências artificais afetam não 
 <br>
 <br>
 <h3>IHC atual:</h3>
+<h4>Nº 3: Controle e liberdade do usuário</h4>
+<p><b>Os usuários geralmente executam ações por engano. Eles precisam de uma "saída de emergência" claramente marcada para deixar a ação indesejada sem ter que passar por um processo prolongado.</b></p>
 
-  
+![IMG_20230410_142902](https://github.com/LucasFrancaRegistro/bertoti/assets/101057737/e9ecd401-af84-4af4-9593-17071de721c4)
+
