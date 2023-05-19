@@ -10,14 +10,6 @@
   Coletei exemplos das 10 heurísticas de usabilidade e acessibilidade na vida real e as avaliei <a href=https://www.nngroup.com/articles/ten-usability-heuristics/> de acordo com o que aprendi como padrão,</a> usando exemplos bons que seguem as heuríticas, e ruins que cometem erros dificultando a experiência do usuario.
 </p>
 <br>
-<h4>- IHC futuro:</h4>
-<p>
-Escrevi um artigo onde falo sobre como as inteligências artificais afetam não só a interação humano computador mas a interação humano humano através de moderações avançadas,
-  aonde um intelifencia artificial pode regular mensagens enviadas por usuarios em fórums e comunidades para certificar que respeito seja mantido e combater grupos de ódio.
-</p>
-<br>
-<br>
-<h3>IHC atual:</h3>
 <h4>Nº 3: Controle e liberdade do usuário</h4>
 <p><b>Os usuários geralmente executam ações por engano. Eles precisam de uma "saída de emergência" claramente marcada para deixar a ação indesejada sem ter que passar por um processo prolongado.</b></p>
 <h4>Nº 4: Consistência e padrões</h4>
