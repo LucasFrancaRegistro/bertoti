@@ -1,7 +1,7 @@
 <h2>IHC</h2>
 <h3>Interação Humano Computador</h3>
 <p>
-  Em IHC falamos sobre como humanos e computadores se interagem, sendo por interfaces com botões, comandos de vozes, linguagens de programação, etc.
+  Em IHC, falamos sobre como humanos e computadores se interagem, sendo por interfaces com botões, comandos de vozes, linguagens de programação, etc.
   E para entender melhor esses conceitos e de que forma isso pode afetar um usuario por exemplo, fizemos dois trabalhos: 
 </p>
 <br>
