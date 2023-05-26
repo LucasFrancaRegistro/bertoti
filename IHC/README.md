@@ -9,6 +9,10 @@
 <p>
   Coletei exemplos das 10 heurísticas de usabilidade e acessibilidade na vida real e as avaliei <a href=https://www.nngroup.com/articles/ten-usability-heuristics/> de acordo com o que aprendi como padrão,</a> usando exemplos bons que seguem as heuríticas, e ruins que cometem erros dificultando a experiência do usuario.
 </p>
+<h4>- IHC futuro:</h4>
+<p>
+Em grupo escrevemos um artigo sobre como Inteligências Artificiais podem auxiliar governos a lutar contra corrupção e criar uma gestão mais transparente e justa. 
+</p>
 <br>
 <h4>Nº 3: Controle e liberdade do usuário</h4>
 <p><b>Os usuários geralmente executam ações por engano. Eles precisam de uma "saída de emergência" claramente marcada para deixar a ação indesejada sem ter que passar por um processo prolongado.</b></p>
